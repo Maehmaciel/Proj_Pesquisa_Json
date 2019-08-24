@@ -1,12 +1,12 @@
 # Proj_Pesquisa_Json
-npm init -y
+# npm init -y
 
 tranferencia de arquivo - servidor.js
-npm i --save express
+# npm i --save express
 
 
 leitura JSON - lista.js
-npm i --save axios
+# npm i --save axios
 
 
 
